@@ -1,0 +1,1 @@
+docker build -t res/jl_apache_php .
