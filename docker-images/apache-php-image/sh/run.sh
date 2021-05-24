@@ -1,1 +1,0 @@
-docker run -d -p 8080:80 --name jl_apache_static res/jl_apache_php
