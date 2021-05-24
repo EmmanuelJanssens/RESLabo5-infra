@@ -1,0 +1,3 @@
+docker kill jl_express_dynamic
+docker kill jl_apache_php
+docker kill jl_apache_rp

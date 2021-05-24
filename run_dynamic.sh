@@ -1,0 +1,1 @@
+docker run -d --name jl_express_dynamic res/jl_express_dynamic 

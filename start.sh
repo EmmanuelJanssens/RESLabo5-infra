@@ -1,0 +1,3 @@
+docker start jl_apache_php
+docker start jl_express_dynamic
+docker start jl_apache_rp
